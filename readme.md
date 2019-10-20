@@ -2,7 +2,7 @@
 
 npm install
 
-npm run dev - develpment mode
+npm run dev - develpment mode<br>
 npm run build - build js and compile less files 
 
 
